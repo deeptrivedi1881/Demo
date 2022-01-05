@@ -2,10 +2,3 @@ Hello My name is deep trivedi and i love to play chess
 
 
 
-<<<<<<< HEAD
-I also love to go to gym as well.
-=======
-
-
-stone12
->>>>>>> b
